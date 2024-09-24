@@ -1,10 +1,2 @@
 # 2024-OLYMPICS-MEDALS-COUNTRIE-WISE-ANALYSIS
-**In this project we can analysis following parameters**
-TOTAL MEDALS DISTRIBUTED TO ALL COUNTRIES.
-TOTAL GOLD MEDALS DISTRIBUTED TO COUNTRIES.
-TOTAL SILVER MEDALS DISTRIBUTED TO COUNTRIES.
-TOTAL BRONZE MEDALS DISTRIBUTED TO COUNTRIES.
-TOP 10 MEDALS ACHIEVED COUNTRIES.
-TOP 10 GOLD MEDALS ACHIEVED COUNTRIES.
-TOP 10 SILVER MEDALS ACHIEVED COUNTRIES.
-TOP 10 BRONZE MEDALS ACHIEVED COUNTRIES.
+In this project, we will analyze the following parameters: total medals distributed to all countries, total gold medals distributed to countries, total silver medals distributed to countries, total bronze medals distributed to countries, top 10 countries with the most medals, top 10 countries with the most gold medals, top 10 countries with the most silver medals, and top 10 countries with the most bronze medals
