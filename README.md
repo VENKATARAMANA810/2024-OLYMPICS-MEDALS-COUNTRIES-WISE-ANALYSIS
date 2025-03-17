@@ -13,7 +13,7 @@ This project analyzes the medal distribution of the 2024 Summer Olympics by coun
 - data/medals_2024.csv: Raw dataset.
 - power_bi/Medal_Analysis.pbix: Power BI dashboard file.
 - sql/medal_queries.sql: SQL queries for analysis.
-- excel/medals_2024.xlsx: Excel summary with Pivot Table.
+- excel/medal_summary.xlsx: Excel summary with Pivot Table.
 - screenshots/dashboard.png: Dashboard screenshot.
 
 ## How to Use
