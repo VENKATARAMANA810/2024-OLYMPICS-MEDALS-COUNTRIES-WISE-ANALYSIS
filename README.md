@@ -1,21 +1,28 @@
-Project Analysis Outline
+# 2024 Olympics Medals Country-Wise Analysis
+A data analysis project showcasing country-wise medal tallies from the Paris 2024 Olympics using Power BI, SQL, and Excel.
 
-Medal distribution:
+## Overview
+This project analyzes the medal distribution of the 2024 Summer Olympics by country, highlighting top performers and medal breakdowns.
 
-•Total medals: Calculate the total number of medals distributed to all countries.
+## Tools Used
+- *Power BI*: Interactive dashboard for visualizing medal data.
+- *SQL*: Queries to summarize and filter medal statistics.
+- *Excel*: Pivot Table and chart for quick analysis.
 
-•Gold medals: Determine the total number of gold medals distributed to countries.
+## Files
+- data/medals_2024.csv: Raw dataset.
+- power_bi/Medal_Analysis.pbix: Power BI dashboard file.
+- sql/medal_queries.sql: SQL queries for analysis.
+- excel/Medal_Summary.xlsx: Excel summary with Pivot Table.
+- screenshots/dashboard.png: Dashboard screenshot.
 
-•Silver medals: Calculate the total number of silver medals distributed to countries.
+## How to Use
+1. Open Medal_Analysis.pbix in Power BI Desktop to explore the dashboard.
+2. Run medal_queries.sql in any SQL environment with the medals table loaded.
+3. View Medal_Summary.xlsx in Excel for the Pivot Table and chart.
 
-•Bronze medals: Determine the total number of bronze medals distributed to countries.
+## Screenshot
+![Dashboard](screenshots/dashboard.png)
 
-Country rankings:
-
-•Top 10 countries with the most medals: Identify the countries with the highest total medal count.
-
-•Top 10 countries with the most gold medals: Identify the countries with the highest gold medal count.
-
-•Top 10 countries with the most silver medals: Identify the countries with the highest silver medal count.
-
-•Top 10 countries with the most bronze medals: Identify the countries with the highest bronze medal count
+## Contact
+Venkataramana | vramana086@gmail.com | Open to remote data analyst opportunities.
