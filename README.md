@@ -22,6 +22,7 @@ This project analyzes the medal distribution of the 2024 Summer Olympics by coun
 3. View Medal_Summary.xlsx in Excel for the Pivot Table and chart.
 
 ## Screenshot
-![dashboard](https://github.com/user-attachments/assets/26b8086d-0589-42e3-a5c3-0b470c405d26)
+![dashboard](https://github.com/user-attachments/assets/b1af6e9e-2db1-4a5c-b19c-f6c3da624443)
+
 ## Contact
 Venkataramana | vramana086@gmail.com | Open to remote data analyst opportunities.
