@@ -1,4 +1,4 @@
-# 2024 Olympics Medals Country-Wise Analysis
+# 2024 Olympics Medals Countries-Wise Analysis
 A data analysis project showcasing country-wise medal tallies from the Paris 2024 Olympics using Power BI, SQL, and Excel.
 
 ## Overview
