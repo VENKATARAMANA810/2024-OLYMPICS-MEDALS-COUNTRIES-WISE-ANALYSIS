@@ -31,4 +31,4 @@ This project analyzes the medal distribution of the 2024 Summer Olympics by coun
 ![dashboard](https://github.com/user-attachments/assets/847ebcfc-7e57-4092-bcc8-2ac5ad3d0718)
 
 ## Contact
-Venkataramana | Email: vramana086@gmail.com | [Open to remote data analyst opportunities](https://www.linkedin.com/in/svramana1)
+Venkataramana | Email: vramana086@gmail.com | [Open to remote data analyst opportunities](https://www.linkedin.com/in/svramana1).
